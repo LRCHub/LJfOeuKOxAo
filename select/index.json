@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "心とかいう名前の未発見の臓器の機能についての考察",
+  "base_artist": "くろくも",
+  "createdAt": "2025-12-18T08:24:33.285019Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "心とかいう名前の未発見の臓器の機能についての考察",
+      "artist": "くろくも",
+      "has_synced": true,
+      "path": "select/01_心とかいう名前の未発見の臓器の機能についての考察_くろくも.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心とかいう名前の未発見の臓器の機能についての考察",
+      "artist": "くろくも",
+      "has_synced": false,
+      "path": "select/pl_01_心とかいう名前の未発見の臓器の機能についての考察_くろくも.txt"
+    }
+  ]
+}
